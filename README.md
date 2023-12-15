@@ -8,3 +8,5 @@ The machine learning project ultilized Pyspark Mlib to predict housing prices ba
 3. Train the model.
 4. Make prediction.
 5. Evaluate the model.
+
+Review the jupyter notebook for the detail explaination in each step.
